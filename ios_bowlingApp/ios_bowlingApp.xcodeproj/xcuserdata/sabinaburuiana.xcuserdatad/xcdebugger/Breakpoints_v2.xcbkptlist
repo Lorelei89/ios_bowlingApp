@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios_bowlingAppTests/ios_bowlingAppTests.swift"
+            timestampString = "574622925.592651"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ios_bowlingAppTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_bowlingAppTests.ios_bowlingAppTests.game.getter : Swift.Optional&lt;ios_bowlingApp.Bowling&gt;"
+                  moduleName = "ios_bowlingAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabinaburuiana/Documents/ios_bowlingApp/ios_bowlingAppTests/ios_bowlingAppTests.swift"
+                  timestampString = "574622937.232175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_bowlingAppTests.ios_bowlingAppTests.game.setter : Swift.Optional&lt;ios_bowlingApp.Bowling&gt;"
+                  moduleName = "ios_bowlingAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabinaburuiana/Documents/ios_bowlingApp/ios_bowlingAppTests/ios_bowlingAppTests.swift"
+                  timestampString = "574622937.2377959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_bowlingAppTests.ios_bowlingAppTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; ios_bowlingAppTests.ios_bowlingAppTests"
+                  moduleName = "ios_bowlingAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabinaburuiana/Documents/ios_bowlingApp/ios_bowlingAppTests/ios_bowlingAppTests.swift"
+                  timestampString = "574622937.240299"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_bowlingAppTests.ios_bowlingAppTests.init(selector: ObjectiveC.Selector) -&gt; ios_bowlingAppTests.ios_bowlingAppTests"
+                  moduleName = "ios_bowlingAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabinaburuiana/Documents/ios_bowlingApp/ios_bowlingAppTests/ios_bowlingAppTests.swift"
+                  timestampString = "574622937.242915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_bowlingAppTests.ios_bowlingAppTests.init() -&gt; ios_bowlingAppTests.ios_bowlingAppTests"
+                  moduleName = "ios_bowlingAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabinaburuiana/Documents/ios_bowlingApp/ios_bowlingAppTests/ios_bowlingAppTests.swift"
+                  timestampString = "574622937.245162"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
